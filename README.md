@@ -5,6 +5,7 @@
 <h3 align="center">I am a Developer and Content Creator 👩‍💻✍</h3>
 
 ###
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <h3 align="left">- 🔭 I’m currently working on  snak<br><br>- 🌱 I’m currently learning React<br><br>- 💬 Ask me about Html, css , java, c++ , c , python , React, Bootstrap<br><br>- 📫 How to reach me simardeepsinghdua@gmail.com</h3>
 
